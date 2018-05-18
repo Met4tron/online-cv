@@ -1,16 +1,10 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Técnico em Informática
+  university: SENAI
+  time: 2014 - 2015
+  details: "Desenvolvimento de programas e aplicativos de informática, assim como em sua configuração, implantação e manutenção; através dos conhecimentos de linguagens de programação, diagnóstico e análise de projetos, banco de dados, infraestrutura de sistemas, dentre outros."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Análise e Desenvolvimento de Sistemas
+  university:  Centro Univseritário Carioca
+  time: 2016 - 2020
+  details: "Analisar, modelar e desenvolver sistemas de informação, utilizando diferentes tecnologias."
